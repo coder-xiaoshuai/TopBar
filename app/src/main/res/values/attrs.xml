@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TopBar">
+        <attr name="backIcon" format="reference" />
+        <attr name="backText" format="string" />
+        <attr name="backTextColor" format="color" />
+        <attr name="backMode" format="enum">
+            <enum name="normal" value="0" />
+            <enum name="gone" value="1" />
+        </attr>
+        <attr name="backTextSize" format="dimension" />
+        <attr name="titleMode" format="enum">
+            <enum name="center" value="0"/>
+            <enum name="left" value="1"/>
+        </attr>
+        <attr name="titleText" format="string" />
+        <attr name="titleTextColor" format="color" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="ivRightOneIcon" format="reference" />
+        <attr name="ivRightTwoIcon" format="reference" />
+        <attr name="ivRightThreeIcon" format="reference" />
+    </declare-styleable>
+</resources>

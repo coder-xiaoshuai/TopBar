@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="container_back" type="id" />
+    <item name="back" type="id" />
+    <item name="backlabel" type="id" />
+    <item name="title" type="id" />
+    <item name="iv_right_one" type="id" />
+    <item name="iv_right_two" type="id" />
+    <item name="iv_right_three" type="id" />
+</resources>
