@@ -1,2 +1,5 @@
 # TopBar
-自定义view 根据实际开发中常见需求 自己封装的一个类似actionbar的view 在这我就叫做TopBar吧
+自定义view 根据实际开发中常见需求 自己封装的一个通用标题栏的view 在这我就叫做TopBar吧
+
+在KotlinStudy中有类似的 可以直接使用KotlinStudy项目中的使用kotlin封装的
+
